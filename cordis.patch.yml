@@ -1,0 +1,4 @@
+# 语音提醒插件（Host）：注册 /voice-sound/*.wav 静态路由
+- insert:
+    - id: voice-alert
+      name: dsh-voice-alert
